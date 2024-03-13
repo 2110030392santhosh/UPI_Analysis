@@ -1,5 +1,8 @@
 # UPI_Analysis
 Analyzing user reviews and engagement across major UPI payment platforms: Google Pay, Paytm, and PhonePe. Insights into performance and user satisfaction levels. Future strategies for optimization.
+#Data Input:
+[DataInput](https://www.kaggle.com/code/everydaycodings/eda-on-upi-payment-apps-review/input?select=GooglePayIndia.csv)
+
 
 # UPI Payment Platform Analysis
 
